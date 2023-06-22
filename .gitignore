@@ -1,0 +1,38 @@
+# Ignore directories
+/.vs/
+/packages/
+ws_Mantenimiento/bin/
+/ws_Mantenimiento/obj/
+
+# Ignore files
+/ws_Mantenimiento/*.suo
+/ws_Mantenimiento/*.user
+/ws_Mantenimiento/*.sln.docstates
+
+# Ignore Entity Framework files
+/ws_Mantenimiento/EntityFramework.dll
+/ws_Mantenimiento/EntityFramework.SqlServer.dll
+/ws_Mantenimiento/EntityFramework.SqlServer.xml
+/ws_Mantenimiento/EntityFramework.xml
+
+# Ignore Oracle DataAccess files
+/ws_Mantenimiento/Oracle.ManagedDataAccess.dll
+/ws_Mantenimiento/Oracle.ManagedDataAccess.EntityFramework.dll
+
+# Ignore NuGet packages
+/ws_Mantenimiento/packages/*.nupkg
+
+# Ignore generated files
+/ws_Mantenimiento/Models/LibreriaImagina.Context.cs
+/ws_Mantenimiento/Models/LibreriaImagina.Context.tt
+/ws_Mantenimiento/Models/LibreriaImagina.cs
+/ws_Mantenimiento/Models/LibreriaImagina.Designer.cs
+/ws_Mantenimiento/Models/LibreriaImagina.edmx
+/ws_Mantenimiento/Models/LibreriaImagina.edmx.diagram
+/ws_Mantenimiento/Models/LibreriaImagina.tt
+/ws_Mantenimiento/Models/MANTENIMIENTO.cs
+
+# Ignore configuration files
+/ws_Mantenimiento/Web.config
+/ws_Mantenimiento/Web.Debug.config
+/ws_Mantenimiento/Web.Release.config
